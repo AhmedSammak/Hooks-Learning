@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AhmedSammak/Hooks-Learning/static/css/main.abd64e84.css",
+    "main.js": "/AhmedSammak/Hooks-Learning/static/js/main.9038cf56.js",
+    "index.html": "/AhmedSammak/Hooks-Learning/index.html",
+    "main.abd64e84.css.map": "/AhmedSammak/Hooks-Learning/static/css/main.abd64e84.css.map",
+    "main.9038cf56.js.map": "/AhmedSammak/Hooks-Learning/static/js/main.9038cf56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.9038cf56.js"
+  ]
+}
